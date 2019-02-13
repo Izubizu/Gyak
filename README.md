@@ -1,1 +1,0 @@
-Geological Project. It's free and open-source.
